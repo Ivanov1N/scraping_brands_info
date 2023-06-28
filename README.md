@@ -4,8 +4,8 @@ Web scraping script.
 
 ## Description
 
-This is a web scraper, which extract companies and their websites and exports the data into Excel Spreadsheet. 
-Due to the high number of requests, I've added an option to use a proxy server.
+This is a web scraper that extracts company information along with their websites and exports the data into an Excel spreadsheet.
+Due to the large volume of requests, I have incorporated an option to utilize a proxy server.
 
 ## Dependencies
 
